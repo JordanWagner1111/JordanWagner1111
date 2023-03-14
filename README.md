@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **wagnerjordan1111@gmail.com**
 
-- ⚡ Fun fact: **In my free time I enjoy playing music. I play piano and guitar and have a passion for learning music**
+- ⚡ Fun fact: **In my free time I enjoy the piano and guitar and have a passion for learning music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
