@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanwagner1111&label=Profile%20views&color=0e75b6&style=flat" alt="jordanwagner1111" /> </p>
 
-- 🔭 I’m currently working on **Z0MGS at Ohio State**
+- 🔭 I’m currently working on **Z0MGS Research Project at Ohio State**
 
 - 🌱 I’m currently learning **Java and Javascript**
 
-- 💬 Ask me about **My research contributions**
+- 💬 Ask me about **my research contributions**
 
 - 📫 How to reach me **wagnerjordan1111@gmail.com**
 
-- ⚡ Fun fact **In my free time I enjoy playing music. I play piano and guitar and have a passion for learning music**
+- ⚡ Fun fact: **In my free time I enjoy playing music. I play piano and guitar and have a passion for learning music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
