@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jordanwagner1111&label=Profile%20views&color=0e75b6&style=flat" alt="jordanwagner1111" /> </p>
 
-- 🔭 I’m currently working on **Z0MGS Research Project at Ohio State**
+- 💻 I’m currently working at **Altamira Technologies Corporation**
 
-- 🌱 I’m currently learning **Java and Javascript**
+- 🌱 My current expertise includes **Python, SQL, Machine Learning, and Statistics**
 
 - 💬 Ask me about **my research contributions**
 
