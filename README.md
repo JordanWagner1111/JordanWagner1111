@@ -1,6 +1,6 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/02/38/16/94/360_F_238169477_Daonex5XsbOWLdcL0x8IcQ91RCJGubDy.jpg)
 <h1 align="center">Hello! I am Jordan Wagner</h1>
-<h3 align="center">Researcher & Software Engineer</h3>
+<h3 align="center">Researcher & Data Scientist</h3>
 
 
 - 💻 I’m currently working at **Altamira Technologies Corporation**
